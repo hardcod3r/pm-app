@@ -17,8 +17,8 @@ Follow the steps below to set up the application:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/hardcod3r/pmapp-poc
-cd pmapp-poc
+git clone https://github.com/hardcod3r/pm-app
+cd pm-app
 ```
 
 ### Step 2: Install Dependencies
